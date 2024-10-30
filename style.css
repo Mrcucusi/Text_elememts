@@ -1,0 +1,7 @@
+p {
+  font-family: sans-serif, "Times New Roman", Times, serif; /*thuộc tính về font chữ và dự phòng*/
+  font-size: 40px; /*kích thước*/
+  font-style: italic; /* in nghiêng chữ*/
+  font-weight: 50; /*Tăng độ rộng cho từng chữ cái Hoặc in đậm*/
+  text-decoration: dotted underline; /*Gạch chân chữ*/
+}
